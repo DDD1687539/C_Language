@@ -2,9 +2,10 @@
  * Copyright (c) 2022 user1687569
  */
 /*
- * Book: C语言程序设计_现代方法 第二版
- * Function: List the names of all files in a directory,
- *           and briefly realize the ls command under unix.
+ * @Book:  C语言程序设计_现代方法 第二版
+ * @Brief: List the names of all files in a directory,
+ *         and briefly realize the ls command under unix.
+ * @Date:  2022.06.27
  */
 
 #include <stdio.h>
