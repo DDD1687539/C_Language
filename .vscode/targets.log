@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Mon Jun 27 17:38:56 2022
+# Make data base, printed on Tue Jun 28 07:26:33 2022
 
 # Variables
 
@@ -91,7 +91,7 @@ PATH = /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/
 # environment
 GPG_AGENT_INFO = /run/user/1000/gnupg/S.gpg-agent:0:1
 # environment
-SESSION_MANAGER = local/ubuntu:@/tmp/.ICE-unix/1384,unix/ubuntu:/tmp/.ICE-unix/1384
+SESSION_MANAGER = local/ubuntu:@/tmp/.ICE-unix/1627,unix/ubuntu:/tmp/.ICE-unix/1627
 # environment
 XDG_RUNTIME_DIR = /run/user/1000
 # environment
@@ -121,7 +121,7 @@ XDG_SESSION_DESKTOP = ubuntu
 # environment
 SSH_AUTH_SOCK = /run/user/1000/keyring/ssh
 # environment
-GIO_LAUNCHED_DESKTOP_FILE_PID = 3638
+GIO_LAUNCHED_DESKTOP_FILE_PID = 2200
 # automatic
 %F = $(notdir $%)
 # environment
@@ -137,7 +137,7 @@ PWD = /home/user1687569/CodeLee/C_Language
 # environment
 XDG_SEAT = seat0
 # environment
-SSH_AGENT_PID = 1461
+SSH_AGENT_PID = 1704
 # environment
 ORIGINAL_XDG_CURRENT_DESKTOP = ubuntu:GNOME
 # environment
@@ -193,7 +193,7 @@ SHLVL = 1
 # environment
 GNOME_SHELL_SESSION_MODE = ubuntu
 # environment
-VSCODE_IPC_HOOK_EXTHOST = /run/user/1000/vscode-ipc-8a3f5be0-fa6a-42d8-b7e4-278276baacf6.sock
+VSCODE_IPC_HOOK_EXTHOST = /run/user/1000/vscode-ipc-572874bc-f2ab-4d94-a768-dd606137d10d.sock
 # environment
 XDG_SESSION_ID = 2
 # environment
@@ -279,10 +279,10 @@ LC_ADDRESS = en_US.UTF-8
 # environment
 LANG = C
 # environment
-VSCODE_PID = 3680
+VSCODE_PID = 2323
+ 
 # variable set hash-table stats:
 # Load=134/1024=13%, Rehash=0, Collisions=24/156=15%
- 
 
 # Pattern-specific Variable Values
 
@@ -348,6 +348,6 @@ GNUmakefile:
 # strcache performance: lookups = 20 / hit rate = 15%
 # hash-table stats:
 # Load=17/8192=0%, Rehash=0, Collisions=1/20=5%
-# Finished Make data base on Mon Jun 27 17:38:56 2022
+# Finished Make data base on Tue Jun 28 07:26:33 2022
 
  

@@ -1,11 +1,10 @@
 /*
- * Copyright (c) 2022 user1687569
- */
-/*
- * @Book:  C语言程序设计_现代方法 第二版
+ * @Book: C语言程序设计_现代方法 第二版
  * @Brief: List the names of all files in a directory,
  *         and briefly realize the ls command under unix.
- * @Date:  2022.06.27
+ * @Date:  2022.06.28
+ * @Author: user1687569
+ * @Copyright (C) 2022 user1687569
  */
 
 #include <stdio.h>
